@@ -1,0 +1,101 @@
+,partner_name,Annual Green Power Usage (kWh),GP % of Total Electricity Use*,Industry,Green Power Resources
+0,Google LLC,7914747101,93,Technology & Telecom,"Solar, Wind"
+1,Microsoft Corporation,6684879000,100,Technology & Telecom,"Small-hydro, Solar, Wind"
+2,Intel Corporation,5022773872,100,Technology & Telecom,Various
+3,Walmart Inc.,2718227534,14,Retail,Various
+4,The Procter & Gamble Company,2530523507,100,Consumer Products,Various
+5,"Equinix, Inc.",2484616951,106,Technology & Telecom,"Biomass, Geothermal, Small-hydro, Solar, Wind"
+6,"Hillsboro, OR",2481828578,68,Technology & Telecom,Various
+7,AT&T,2360337220,18,Technology & Telecom,Wind
+8,Apple Inc.,2202581271,101,Technology & Telecom,"Biogas, Biomass, Small-hydro, Solar, Wind"
+9,Bank of America,1773446499,109,Banking & Fin. Srvcs.,Various
+10,T-Mobile,1757017000,25,Technology & Telecom,"Solar, Wind"
+11,PepsiCo,1711233504,100,Food & Beverage,"Solar, Wind"
+12,Wells Fargo,1611074372,100,Banking & Fin. Srvcs.,"Solar, Wind"
+13,Kaiser Permanente,1595878713,98,Health Care,"Biogas, Biomass, Solar, Wind"
+14,Samsung Electronics,1339124850,100,Technology & Telecom,"Biogas, Solar, Wind"
+15,"General Motors, LLC",1224190836,41,Automotive,"Biogas, Solar, Wind"
+16,"City of Houston, TX",1220129467,100,"Govt. (Local, Municipal)","Geothermal, Solar, Wind"
+17,"ALDI, Inc.",1063674527,100,Retail,Various
+18,"Cisco Systems, Inc.",1063237505,100,Technology & Telecom,"Solar, Wind"
+19,Starbucks (Company-Owned Stores),1046506760,100,Restaurants & Cafes,Various
+20,Kimberly-Clark Corporation,1034937000,33,Consumer Products,Wind
+21,General Mills,1010000000,107,Food & Beverage,Wind
+22,Owens Corning,990682581,59,Industrial Goods & Srvcs.,"Solar, Wind"
+23,"Washington, DC",989784969,10,Industrial Goods & Srvcs.,Various
+24,Switch,810841737,100,Technology & Telecom,Solar
+25,"Anheuser-Busch Companies, LLC",759764000,53,Wineries & Breweries,"Solar, Wind"
+26,Target Corporation,740318514,19,Retail,"Solar, Wind"
+27,"Mars, Incorporated",727782770,75,Food & Beverage,"Solar, Wind"
+28,Digital Realty,709761327,11,Technology & Telecom,"Solar, Wind"
+29,"City of Dallas, TX",701801878,100,"Govt. (Local, Municipal)",Wind
+30,Citi,593536085,100,Banking & Fin. Srvcs.,Wind
+31,"Iron Mountain Information Management, LLC",587166331,90,Technology & Telecom,Various
+32,salesforce.com,543792117,73,Technology & Telecom,"Solar, Wind"
+33,District of Columbia,538237000,110,"Govt. (Local, Municipal)","Solar, Wind"
+34,University of California,480801183,46,Education (Higher),Various
+35,Saint-Gobain North America,477400000,42,Other,Wind
+36,Montgomery County Clean Energy Buyers Group,467339000,85,"Govt. (Local, Municipal)",Wind
+37,Dallas Fort Worth International Airport,443590108,102,Transportation,"Solar, Wind"
+38,Johnson & Johnson,430970386,69,Health Care,"Solar, Wind"
+39,QTS Realty Trust,430090000,32,Technology & Telecom,"Solar, Wind"
+40,Massachusetts Bay Transportation Authority,428726693,100,Transportation,Various
+41,Unilever,422638335,100,Consumer Products,Various
+42,"Bimbo Bakeries USA, Inc.",417572875,100,Food & Beverage,Wind
+43,BD,410132911,70,Health Care,Various
+44,Dell Technologies,404054000,61,Technology & Telecom,"Solar, Wind"
+45,"Crown Holdings, Inc. / USA Beverage Division",402800000,100,Industrial Goods & Srvcs.,Wind
+46,The Boeing Company,391087669,20,Industrial Goods & Srvcs.,"Biomass, Small-hydro, Solar, Wind"
+47,Kohler Co.,374371680,104,Consumer Products,"Solar, Wind"
+48,Best Buy,374264000,56,Retail,"Solar, Wind"
+49,The Clorox Company,371787000,100,Consumer Products,"Solar, Wind"
+50,State of California,337015828,13,Govt. (State),"Biomass, Solar, Wind"
+51,Commonwealth of Pennsylvania,322933000,40,Govt. (State),Various
+52,Lockheed Martin,322000000,22,Industrial Goods & Srvcs.,"Biomass, Solar, Wind"
+53,Capital One,316333986,100,Banking & Fin. Srvcs.,Wind
+54,"City of Austin, TX",310012080,100,"Govt. (Local, Municipal)",Wind
+55,U.S. General Services Administration,305562012,14,Govt. (Federal),"Solar, Wind"
+56,eBay Inc.,275608040,82,Technology & Telecom,"Solar, Wind"
+57,"Goldman Sachs Group, Inc.",269581929,100,Banking & Fin. Srvcs.,Wind
+58,Siemens USA,269348000,83,Industrial Goods & Srvcs.,Wind
+59,San Francisco Bay Area Rapid Transit (BART),256408800,66,Transportation,"Solar, Wind"
+60,Arizona State University,254322901,78,Education (Higher),Various
+61,University of Iowa,251357605,73,Education (Higher),"Biomass, Solar, Wind"
+62,IKEA,243273778,100,Retail,"Biogas, Solar, Wind"
+63,Columbia University,232109000,100,Education (Higher),Various
+64,"Cummins, Inc.",231336076,48,Industrial Goods & Srvcs.,"Solar, Wind"
+65,Johnson Controls,230448455,78,Industrial Goods & Srvcs.,"Biogas, Biomass, Solar"
+66,BNY Mellon,230000000,101,Banking & Fin. Srvcs.,Wind
+67,"Solvay America, Inc.",219961000,21,Chemical,"Solar, Wind"
+68,"University at Buffalo, the State University of New York",216403405,102,Education (Higher),"Solar, Wind"
+69,Colgate-Palmolive Company,215379000,82,Consumer Products,Wind
+70,DHL,214070000,100,Shipping,Wind
+71,JPMorgan Chase & Co.,213953094,14,Banking & Fin. Srvcs.,"Solar, Wind"
+72,Textron Aviation,211992000,79,Industrial Goods & Srvcs.,Wind
+73,BMO Harris Bank,210000000,95,Banking & Fin. Srvcs.,Wind
+74,AstraZeneca,209520000,100,Health Care,Wind
+75,Boston University,205000000,100,Education (Higher),Wind
+76,H&M,202696679,100,Clothing & Textile,Wind
+77,TD Bank,196273474,95,Banking & Fin. Srvcs.,"Solar, Wind"
+78,"PayPal, Inc. / U.S. Data Centers",193987840,98,Banking & Fin. Srvcs.,"Solar, Wind"
+79,"DataBank, Ltd.",187481302,33,Technology & Telecom,Wind
+80,Stanford University,186275157,69,Education (Higher),Various
+81,HP Inc.,182033624,100,Technology & Telecom,Various
+82,Kilroy Realty Corporation,176908645,69,Real Estate,Various
+83,Unibail-Rodamco-Westfield,176581391,100,Real Estate,"Solar, Wind"
+84,IBM,174191810,12,Technology & Telecom,"Solar, Wind"
+85,University of Maryland,171274825,68,Education (Higher),"Small-hydro, Solar, Wind"
+86,American Express,167364195,100,Banking & Fin. Srvcs.,"Solar, Wind"
+87,"Church & Dwight Co., Inc.",159445000,107,Consumer Products,Wind
+88,"County of Santa Clara, CA",159263835,97,"Govt. (Local, Municipal)","Solar, Wind"
+89,State Street Corporation,158991503,104,Banking & Fin. Srvcs.,"Solar, Wind"
+90,Fifth Third Bank,153164000,100,Banking & Fin. Srvcs.,"Solar, Wind"
+91,State of Delaware,152853933,50,Govt. (State),Various
+92,Georgetown University,152404000,127,Education (Higher),Wind
+93,Bloomberg LP,137373268,64,Media & Publishing,"Solar, Wind"
+94,SAP America,135527000,100,Technology & Telecom,Wind
+95,University of Arizona / Main Campus,131020104,67,Education (Higher),"Solar, Wind"
+96,HNI Corporation,130000000,100,Consumer Products,Wind
+97,University of Utah,129873801,43,Education (Higher),"Geothermal, Solar"
+98,Empire State Realty Trust,129511607,100,Real Estate,Various
+99,"Beaverton, OR",128518731,15,Real Estate,"Biomass, Geothermal, Small-hydro, Solar, Wind"
